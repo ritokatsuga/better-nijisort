@@ -1,2 +1,2 @@
-# better-nijisort
+# Better-Nijisort
 Better Nijisanji operator character sorter, based on Touhou Project character sorter source code
