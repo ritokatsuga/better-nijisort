@@ -36,7 +36,7 @@ body {
 
 .progressfill {
   height: 20px;
-  background-color: #2b4b72;
+  background-color: #8eaed4;
   width: 0%;
 }
 
@@ -136,12 +136,12 @@ body {
 
 .sorter > .left {
   grid-column: 1 / 2;
-  border: 1px solid #000000;
+  border: 1px solid #2b4b72;
 }
 
 .sorter > .right {
   grid-column: 3 / 4;
-  border: 1px solid #000000;
+  border: 1px solid #2b4b72;
 }
 
 .options {
