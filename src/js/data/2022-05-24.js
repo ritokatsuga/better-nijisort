@@ -1071,7 +1071,8 @@ dataSet[dataSetVersion].characterData = [
     img: "53QM1Hw.png",
     opts: {
       region: ['id'],
-      girl: true
+      girl: true,
+      retired: true
     }
   },
   {
