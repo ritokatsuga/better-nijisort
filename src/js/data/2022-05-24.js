@@ -16,19 +16,19 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Remove boys",
+    name: "Exclude boys",
     key: "boy",
     tooltip: "Check this to remove boys.",
     checked: false
   },
   {
-    name: "Remove girls",
+    name: "Exclude girls",
     key: "girl",
     tooltip: "Check this to remove girls.",
     checked: false
   },
   {
-    name: "Remove retired members",
+    name: "Exclude retired members",
     key: "retired",
     tooltip: "Check this to remove graduated/retired members.",
     checked: true
