@@ -4,6 +4,6 @@ A better Nijisanji live sorter with more features and filters that based on [exe
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest update:
-3 February 2023 - Added VOLTACATION, January 2023 batch, ILUNA and XSOLEIL livers, changed Salome potrait
+4 February 2023 - The website go live. Added VOLTACATION, January 2023 batch, ILUNA and XSOLEIL livers, fixed some retired livers, and changed Salome potrait.
 
 Contributors are open
