@@ -1628,8 +1628,7 @@ dataSet[dataSetVersion].characterData = [
     img: "9B8gr0s.jpg",
     opts: {
       region: ['jp'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1637,8 +1636,7 @@ dataSet[dataSetVersion].characterData = [
     img: "bBnH0gh.jpg",
     opts: {
       region: ['jp'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1646,8 +1644,7 @@ dataSet[dataSetVersion].characterData = [
     img: "WJCYyUf.jpg",
     opts: {
       region: ['jp'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1655,8 +1652,7 @@ dataSet[dataSetVersion].characterData = [
     img: "VGC8ZFV.jpg",
     opts: {
       region: ['jp'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1664,8 +1660,7 @@ dataSet[dataSetVersion].characterData = [
     img: "7F52vzD.jpg",
     opts: {
       region: ['en'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1673,8 +1668,7 @@ dataSet[dataSetVersion].characterData = [
     img: "luaOfI0.jpg",
     opts: {
       region: ['en'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1682,8 +1676,7 @@ dataSet[dataSetVersion].characterData = [
     img: "fpSRlHp.jpg",
     opts: {
       region: ['en'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1691,8 +1684,7 @@ dataSet[dataSetVersion].characterData = [
     img: "M279fd6.jpg",
     opts: {
       region: ['en'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1700,8 +1692,7 @@ dataSet[dataSetVersion].characterData = [
     img: "mo3lfKR.jpg",
     opts: {
       region: ['en'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1709,8 +1700,7 @@ dataSet[dataSetVersion].characterData = [
     img: "7qKFTse.jpg",
     opts: {
       region: ['en'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1718,8 +1708,7 @@ dataSet[dataSetVersion].characterData = [
     img: "SKMx2Cn.jpg",
     opts: {
       region: ['en'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1727,8 +1716,7 @@ dataSet[dataSetVersion].characterData = [
     img: "BxaaVfi.jpg",
     opts: {
       region: ['en'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1736,8 +1724,7 @@ dataSet[dataSetVersion].characterData = [
     img: "AtrTkmJ.jpg",
     opts: {
       region: ['en'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1754,8 +1741,7 @@ dataSet[dataSetVersion].characterData = [
     img: "mgOSXsY.jpg",
     opts: {
       region: ['en'],
-      boy: true,
-      retired: false
+      boy: true
     }
   },
   {
@@ -1763,8 +1749,7 @@ dataSet[dataSetVersion].characterData = [
     img: "oSFtzbk.jpg",
     opts: {
       region: ['en'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1772,8 +1757,7 @@ dataSet[dataSetVersion].characterData = [
     img: "dG57tBq.jpg",
     opts: {
       region: ['jp'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1781,8 +1765,7 @@ dataSet[dataSetVersion].characterData = [
     img: "POnRAsZ.jpg",
     opts: {
       region: ['jp'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1790,8 +1773,7 @@ dataSet[dataSetVersion].characterData = [
     img: "AYrKczN.jpg",
     opts: {
       region: ['jp'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1799,8 +1781,7 @@ dataSet[dataSetVersion].characterData = [
     img: "gRH7pDw.jpg",
     opts: {
       region: ['jp'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1808,8 +1789,7 @@ dataSet[dataSetVersion].characterData = [
     img: "fqrPI6G.jpg",
     opts: {
       region: ['jp'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1817,8 +1797,7 @@ dataSet[dataSetVersion].characterData = [
     img: "AGWskSe.jpg",
     opts: {
       region: ['jp'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
@@ -1826,8 +1805,7 @@ dataSet[dataSetVersion].characterData = [
     img: "qe2Tpmf.jpg",
     opts: {
       region: ['jp'],
-      boy: false,
-      retired: false
+      girl: true
     }
   }
 ]
