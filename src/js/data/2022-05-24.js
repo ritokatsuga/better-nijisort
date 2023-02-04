@@ -1732,8 +1732,7 @@ dataSet[dataSetVersion].characterData = [
     img: "KL2nAOo.jpg",
     opts: {
       region: ['en'],
-      boy: false,
-      retired: false
+      girl: true
     }
   },
   {
