@@ -350,7 +350,8 @@ dataSet[dataSetVersion].characterData = [
     img: "5hCj2c7.png",
     opts: {
       region: ['jp'],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {
