@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest update:
-4 February 2023 - The website go live. Added VOLTACATION, January 2023 batch, ILUNA and XSOLEIL livers, fixed some retired livers, and changed Salome potrait.
+10 March 2023 - Zaion termination.
 
 Contributors are open
 
