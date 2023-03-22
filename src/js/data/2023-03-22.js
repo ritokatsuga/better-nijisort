@@ -1,4 +1,4 @@
-dataSetVersion = "2021-12-23"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2023-03-22"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -126,7 +126,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Morinaka Kazaki",
-    img: "4RnE12b.png",
+    img: "LLEbeSj.jpg",
     opts: {
       region: ['jp'],
       girl: true
@@ -1166,7 +1166,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mika Melatika",
-    img: "SgE3SyL.png",
+    img: "LlqNxBX.jpg",
     opts: {
       region: ['id'],
       girl: true
