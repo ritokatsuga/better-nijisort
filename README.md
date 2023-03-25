@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest update:
-22 March 2023 - Fixing dataset version, fixing Kazaki and Mika avatar.
+25 March 2023 - Reverting back some changes because it kinda messed up.
 
 Contributors are open
 
