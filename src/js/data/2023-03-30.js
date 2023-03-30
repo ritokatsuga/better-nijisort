@@ -1,4 +1,4 @@
-dataSetVersion = "2021-12-23"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2023-03-30"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -16,19 +16,19 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Remove boys",
+    name: "Exclude boys",
     key: "boy",
     tooltip: "Check this to remove boys.",
     checked: false
   },
   {
-    name: "Remove girls",
+    name: "Exclude girls",
     key: "girl",
     tooltip: "Check this to remove girls.",
     checked: false
   },
   {
-    name: "Remove retired members",
+    name: "Exclude retired members",
     key: "retired",
     tooltip: "Check this to remove graduated/retired members.",
     checked: true
@@ -126,7 +126,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Morinaka Kazaki",
-    img: "4RnE12b.png",
+    img: "jU2huJx.png",
     opts: {
       region: ['jp'],
       girl: true
@@ -134,7 +134,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Suzuka Utako",
-    img: "wlJgtuq.png",
+    img: "sEIUhaT.png",
     opts: {
       region: ['jp'],
       girl: true
@@ -182,7 +182,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kanae",
-    img: "jmIgSRm.png",
+    img: "ZLROLuK.png",
     opts: {
       region: ['jp'],
       boy: true
@@ -223,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Makaino Ririmu",
-    img: "gcc0GZ1.png",
+    img: "PGq8piA.png",
     opts: {
       region: ['jp'],
       girl: true
@@ -331,7 +331,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Suzuki Masaru",
-    img: "3zkKfkz.png",
+    img: "kiVbSbQ.png",
     opts: {
       region: ['jp'],
       boy: true
@@ -350,7 +350,8 @@ dataSet[dataSetVersion].characterData = [
     img: "5hCj2c7.png",
     opts: {
       region: ['jp'],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {
@@ -403,7 +404,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Maimoto Keisuke",
-    img: "bMXOpxE.png",
+    img: "Yayheiq.png",
     opts: {
       region: ['jp'],
       boy: true
@@ -500,7 +501,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Harusaki Air",
-    img: "1NHzHmB.png",
+    img: "pui9EQc.png",
     opts: {
       region: ['jp'],
       boy: true
@@ -508,7 +509,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Naruse Naru",
-    img: "kyB4ljo.png",
+    img: "Q67H92p.png",
     opts: {
       region: ['jp'],
       boy: true
@@ -616,7 +617,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Saegusa Akina",
-    img: "VleAmXA.png",
+    img: "I263E1c.png",
     opts: {
       region: ['jp'],
       boy: true
@@ -665,7 +666,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hayama Marin",
-    img: "FxPobxF.png",
+    img: "4dGgBcm.png",
     opts: {
       region: ['jp'],
       girl: true
@@ -708,7 +709,8 @@ dataSet[dataSetVersion].characterData = [
     img: "WLuAyxi.png",
     opts: {
       region: ['jp'],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {
@@ -809,7 +811,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Emma★August",
-    img: "81SmEiY.png",
+    img: "hFmVEbx.png",
     opts: {
       region: ['jp'],
       girl: true
@@ -865,7 +867,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kurusu Natsume",
-    img: "QXOALC0.png",
+    img: "nJGVai7.png",
     opts: {
       region: ['jp'],
       girl: true
@@ -892,6 +894,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Q578oYo.png",
     opts: {
       region: ['jp'],
+      retired: true
     }
   },
   {
@@ -904,7 +907,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Genzuki Tojiro",
-    img: "PKdceUr.png",
+    img: "XbWjlWs.png",
     opts: {
       region: ['jp'],
       boy: true
@@ -937,7 +940,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Asahina Akane",
-    img: "LHQ01rF.png",
+    img: "dxy3bfv.png",
     opts: {
       region: ['jp'],
       girl: true
@@ -988,7 +991,8 @@ dataSet[dataSetVersion].characterData = [
     img: "5dZDAa0.png",
     opts: {
       region: ['jp'],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {
@@ -1068,7 +1072,8 @@ dataSet[dataSetVersion].characterData = [
     img: "53QM1Hw.png",
     opts: {
       region: ['id'],
-      girl: true
+      girl: true,
+      retired: true
     }
   },
   {
@@ -1129,7 +1134,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Derem Kado",
-    img: "trIu4Dj.png",
+    img: "Qpj96rh.png",
     opts: {
       region: ['id'],
       girl: true
@@ -1145,7 +1150,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hyona Elatiora",
-    img: "IuUWZ1F.png",
+    img: "DnFqN6a.png",
     opts: {
       region: ['id'],
       girl: true
@@ -1153,7 +1158,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Xia Ekavira",
-    img: "WKZ8W78.png",
+    img: "EvvhZJM.png",
     opts: {
       region: ['id'],
       girl: true
@@ -1161,7 +1166,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mika Melatika",
-    img: "SgE3SyL.png",
+    img: "RIAW2Gg.png",
     opts: {
       region: ['id'],
       girl: true
@@ -1366,7 +1371,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Elira Pendora",
-    img: "sWPQIK8.png",
+    img: "XWw1VGc.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1374,7 +1379,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pomu Rainpuff",
-    img: "15I79XC.png",
+    img: "zlYHl3S.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1382,7 +1387,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Finana Ryugu",
-    img: "n4FQKus.png",
+    img: "w1pgrhP.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1390,7 +1395,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Selen Tatsuki",
-    img: "4R41kV8.png",
+    img: "uCiIbcw.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1398,7 +1403,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rosemi Lovelock",
-    img: "UsqibzG.png",
+    img: "LrNMVCk.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1406,7 +1411,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Petra Gurin",
-    img: "jLJsUcG.png",
+    img: "KdmJirR.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1414,7 +1419,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nina Kosaka",
-    img: "IuT7cHF.png",
+    img: "bI6o7Ee.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1422,7 +1427,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Millie Parfait",
-    img: "upUP0RH.png",
+    img: "VOqaAJb.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1430,7 +1435,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Enna Alouette",
-    img: "I5JsA4J.png",
+    img: "JopLNv6.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1438,7 +1443,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Reimu Endou",
-    img: "fvXYtSu.png",
+    img: "jqE7BQ7.png",
     opts: {
       region: ['en'],
       girl: true
@@ -1571,7 +1576,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hyakumantenbara Salome",
-    img: "XKUhPaL.png",
+    img: "vezKE3D.jpg",
     opts: {
       region: ['jp'],
       girl: true
@@ -1614,8 +1619,225 @@ dataSet[dataSetVersion].characterData = [
     img: "mZT1oRY.png",
     opts: {
       region: ['en'],
+      boy: true,
+      retired: true
+    }
+  },
+  {
+    name: "Shikinagi Akira",
+    img: "9B8gr0s.jpg",
+    opts: {
+      region: ['jp'],
       boy: true
     }
-  }
-
+  },
+  {
+    name: "Seraph Dazzlegarden",
+    img: "bBnH0gh.jpg",
+    opts: {
+      region: ['jp'],
+      boy: true
+    }
+  },
+  {
+    name: "Fura Kanato",
+    img: "WJCYyUf.jpg",
+    opts: {
+      region: ['jp'],
+      boy: true
+    }
+  },
+  {
+    name: "Watarai Hibari",
+    img: "VGC8ZFV.jpg",
+    opts: {
+      region: ['jp'],
+      boy: true
+    }
+  },
+  {
+    name: "Aia Amare",
+    img: "7F52vzD.jpg",
+    opts: {
+      region: ['en'],
+      girl: true
+    }
+  },
+  {
+    name: "Kyo Kaneko",
+    img: "luaOfI0.jpg",
+    opts: {
+      region: ['en'],
+      boy: true
+    }
+  },
+  {
+    name: "Aster Arcadia",
+    img: "fpSRlHp.jpg",
+    opts: {
+      region: ['en'],
+      boy: true
+    }
+  },
+  {
+    name: "Maria Marionette",
+    img: "M279fd6.jpg",
+    opts: {
+      region: ['en'],
+      girl: true
+    }
+  },
+  {
+    name: "Ren Zotto",
+    img: "mo3lfKR.jpg",
+    opts: {
+      region: ['en'],
+      boy: true
+    }
+  },
+  {
+    name: "Scarle Yonaguni",
+    img: "7qKFTse.jpg",
+    opts: {
+      region: ['en'],
+      girl: true
+    }
+  },
+  {
+    name: "Kotoka Torahime",
+    img: "SKMx2Cn.jpg",
+    opts: {
+      region: ['en'],
+      girl: true
+    }
+  },
+  {
+    name: "Hex Haywire",
+    img: "BxaaVfi.jpg",
+    opts: {
+      region: ['en'],
+      boy: true
+    }
+  },
+  {
+    name: "Doppio Dropscythe",
+    img: "AtrTkmJ.jpg",
+    opts: {
+      region: ['en'],
+      boy: true
+    }
+  },
+  {
+    name: "Meloco Kyoran",
+    img: "KL2nAOo.jpg",
+    opts: {
+      region: ['en'],
+      girl: true
+    }
+  },
+  {
+    name: "Ver Vermillion",
+    img: "mgOSXsY.jpg",
+    opts: {
+      region: ['en'],
+      boy: true
+    }
+  },
+  {
+    name: "Zaion LanZa",
+    img: "oSFtzbk.jpg",
+    opts: {
+      region: ['en'],
+      girl: true,
+      retired: true
+    }
+  },
+  {
+    name: "Igarashi Rika",
+    img: "dG57tBq.jpg",
+    opts: {
+      region: ['jp'],
+      girl: true
+    }
+  },
+  {
+    name: "Ishigami Nozomi",
+    img: "POnRAsZ.jpg",
+    opts: {
+      region: ['jp'],
+      girl: true
+    }
+  },
+  {
+    name: "Kuramochi Meruto",
+    img: "AYrKczN.jpg",
+    opts: {
+      region: ['jp'],
+      girl: true
+    }
+  },
+  {
+    name: "Kaburaki Roco",
+    img: "gRH7pDw.jpg",
+    opts: {
+      region: ['jp'],
+      girl: true
+    }
+  },
+  {
+    name: "Koshimizu Toru",
+    img: "fqrPI6G.jpg",
+    opts: {
+      region: ['jp'],
+      girl: true
+    }
+  },
+  {
+    name: "Shishido Akari",
+    img: "AGWskSe.jpg",
+    opts: {
+      region: ['jp'],
+      girl: true
+    }
+  },
+  {
+    name: "Sophia Valentine",
+    img: "qe2Tpmf.jpg",
+    opts: {
+      region: ['jp'],
+      girl: true
+    }
+  },
+  {
+    name: "Akagi Wen",
+    img: "b93mHXV.jpg",
+    opts: {
+      region: ['jp'],
+      boy: true
+    }
+  },
+  {
+    name: "Usami Rito",
+    img: "66gV3vt.jpg",
+    opts: {
+      region: ['jp'],
+      boy: true
+    }
+  },
+  {
+    name: "Saiki Ittetsu",
+    img: "RVExvk1.jpg",
+    opts: {
+      region: ['jp'],
+      boy: true
+    }
+  },
+  {
+    name: "Hibachi Mana",
+    img: "UWN5U8D.jpg",
+    opts: {
+      region: ['jp'],
+      boy: true
+    }
+  },
 ]

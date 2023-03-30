@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest update:
-25 March 2023 - Reverting back some changes because it kinda messed up.
+30 March 2023 - Added Ittetsu, Wen, Mana and Rito as new male main branch livers, fixing avatar of 30 livers, refixing datasets.
 
 Contributors are open
 
