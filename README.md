@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest changelog:
-16 April 2023 - Renaming latest male wave to Oriens, moving changelogs to a separate page, changing "region" to "branch".
+14 May 2023 - ZEA Cornelia graduation, adding Indonesian version
 
 Contributors are open
 
