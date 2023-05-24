@@ -3,9 +3,22 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
-Latest changelog:
-21 May 2023 - Adding Dytica members, thanks to [#2](https://github.com/ritokatsuga/better-nijisort/issues/2)
+Latest changelog:<br>
+24 May 2023 - Asahina Akane graduation.
 
 Contributors are open
 
 Supports me via [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) or [PayPal (International)](https://paypal.me/ufalsalman)
+
+## Bahasa Indonesia
+
+Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter yang lebih banyak yang berdasarkan pada kode sumber [penyortir karakter Touhou Project milik execfera](https://tohosort.frelia.my/) dan [penyortir liver Nijisanji versi rennelu](https://rennelu.github.io/nijisort).
+
+Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
+
+Perubahan terakhir:<br>
+24 Mei 2023 - Kelulusan Asahina Akane.
+
+Menerima kontributor.
+
+Dukung saya melalui [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) atau [PayPal (Internasional)](https://paypal.me/ufalsalman)
