@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest changelog:<br>
-24 May 2023 - Asahina Akane graduation.
+29 May 2023 - Taka Radjiman graduation.
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Perubahan terakhir:<br>
-24 Mei 2023 - Kelulusan Asahina Akane.
+29 Mei 2023 - Kelulusan Taka Radjiman.
 
 Menerima kontributor.
 
