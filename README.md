@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest changelog:<br>
-15 June 2023 - Siska Leontyne graduation.
+22 June 2023 - NijiKrisis debut, fixing wrong source code.
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Perubahan terakhir:<br>
-15 Juni 2023 - Kelulusan Siska Leontyne.
+22 Juni 2023 - Debut NijiKrisis, memperbaiki kode sumber yang salah.
 
 Menerima kontributor.
 
