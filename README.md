@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Perubahan terakhir:<br>
-14 Juli 2023 - Lupa mengatur Gundou Mirei sebagai liver yang telah lulus.
+14 Juli 2023 - Lupa untuk mengatur Gundou Mirei sebagai liver yang telah lulus.
 
 Menerima kontributor.
 
