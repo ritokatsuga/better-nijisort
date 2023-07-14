@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest changelog:<br>
-8 July 2023 - Nina Kosaka graduation, fixing wrong source code.
+14 July 2023 - Forgot to put Gundo Mirei as graduated.
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Perubahan terakhir:<br>
-8 Juli 2023 - Kelulusan Nina Kosaka, memperbaiki kode sumber yang salah.
+14 Juli 2023 - Lupa mengatur Gundou Mirei sebagai liver yang telah lulus.
 
 Menerima kontributor.
 
