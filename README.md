@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest changelog:<br>
-14 July 2023 - Forgot to put Gundo Mirei as graduated.
+17 July 2023 - Amicia Michella graduation.
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Perubahan terakhir:<br>
-14 Juli 2023 - Lupa untuk mengatur Gundou Mirei sebagai liver yang telah lulus.
+17 Juli 2023 - Kelulusan Amicia Michella.
 
 Menerima kontributor.
 
