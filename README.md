@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest changelog:<br>
-17 July 2023 - Amicia Michella graduation.
+20 August 2023 - Azura Cecilia graduation
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Perubahan terakhir:<br>
-17 Juli 2023 - Kelulusan Amicia Michella.
+20 Agustus 2023 - Kelulusan Azura Cecilia.
 
 Menerima kontributor.
 
