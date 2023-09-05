@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest changelog:<br>
-29 August 2023 - Mysta Rias graduation
+5 September 2023 - Nara Haramaung graduation.
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Perubahan terakhir:<br>
-29 Agustus 2023 - Kelulusan Mysta Rias.
+5 September 2023 - Kelulusan Nara Haramaung.
 
 Menerima kontributor.
 
