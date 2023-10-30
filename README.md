@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest changelog:<br>
-10 October 2023 - Reza Avanluna graduation
+30 October 2023 - Hyona Elatiora graduation
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Perubahan terakhir:<br>
-10 Oktober 2023 - Kelulusan Reza Avanluna
+30 Oktober 2023 - Kelulusan Hyona Elatiora
 
 Menerima kontributor.
 
