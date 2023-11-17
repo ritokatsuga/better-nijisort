@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Latest changelog:<br>
-30 October 2023 - Hyona Elatiora graduation
+17 November 2023 - Adding TTT, fixing all images, new site, dark mode
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [better-nijisort.pages.dev](https://better-nijisort.pages.dev/)
 
 Perubahan terakhir:<br>
-30 Oktober 2023 - Kelulusan Hyona Elatiora
+17 November 2023 - Menambahkan TTT, memperbaiki semua gambar, situs baru, mode gelap
 
 Menerima kontributor.
 
