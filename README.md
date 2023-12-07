@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/)
 
 Latest changelog:<br>
-17 November 2023 - Adding TTT, fixing all images, new site, dark mode
+7 December 2023 - Xia Ekavira graduation; Ruri, Toto and Milan debut
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-17 November 2023 - Menambahkan TTT, memperbaiki semua gambar, situs baru, mode gelap
+7 Desember 2023 - Kelulusan Xia Ekavira; debut Ruri, Toto dan Milan
 
 Menerima kontributor.
 
