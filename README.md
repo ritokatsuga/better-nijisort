@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/)
 
 Latest changelog:<br>
-7 December 2023 - Xia Ekavira graduation; Ruri, Toto and Milan debut
+4 January 2024 - Mika Melatika and Aiba Uiha graduation, new Karuta potrait
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-7 Desember 2023 - Kelulusan Xia Ekavira; debut Ruri, Toto dan Milan
+4 Januari 2024 - Kelulusan Mika Melatika dan Aiba Uiha, potret baru Karuta
 
 Menerima kontributor.
 
