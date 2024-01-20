@@ -1,4 +1,4 @@
-dataSetVersion = "2024-01-04"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2024-01-20"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -1395,7 +1395,8 @@ dataSet[dataSetVersion].characterData = [
     img: "pomu.webp",
     opts: {
       branch: ['en'],
-      girl: true
+      girl: true,
+      retired: true
     }
   },
   {

@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/)
 
 Latest changelog:<br>
-4 January 2024 - Mika Melatika and Aiba Uiha graduation, new Karuta potrait
+20 January 2024 - Pomu Rainpuff graduation
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-4 Januari 2024 - Kelulusan Mika Melatika dan Aiba Uiha, potret baru Karuta
+20 Januari 2024 - Kelulusan Pomu Rainpuff
 
 Menerima kontributor.
 

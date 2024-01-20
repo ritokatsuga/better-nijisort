@@ -1,11 +1,11 @@
-dataSetVersion = "2024-01-04"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2024-01-20"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Saring berdasarkan cabang",
+    name: "Filter by branch",
     key: "branch",
-    tooltip: "Centang ini untuk mengecualikan liver dari cabang tersebut.",
+    tooltip: "Check this to restrict to livers from certain branches.",
     checked: false,
     sub: [
       { name: "にじさんじ", key: "jp" },
@@ -16,21 +16,21 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Kecualikan laki-laki",
+    name: "Exclude boys",
     key: "boy",
-    tooltip: "Centang untuk mengecualikan laki-laki.",
+    tooltip: "Check this to exclude boys.",
     checked: false
   },
   {
-    name: "Kecualikan perempuan",
+    name: "Exclude girls",
     key: "girl",
-    tooltip: "Centang untuk mengecualikan perempuan.",
+    tooltip: "Check this to exclude girls.",
     checked: false
   },
   {
-    name: "Kecualikan mantan anggota",
+    name: "Exclude retired members",
     key: "retired",
-    tooltip: "Centang ini untuk mengecualikan anggota yang lulus/diberhentikan.",
+    tooltip: "Check this to excluded graduated/retired/terminated members.",
     checked: true
   }
 ];
@@ -1395,7 +1395,8 @@ dataSet[dataSetVersion].characterData = [
     img: "pomu.webp",
     opts: {
       branch: ['en'],
-      girl: true
+      girl: true,
+      retired: true
     }
   },
   {
