@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/)
 
 Latest changelog:<br>
-20 January 2024 - Pomu Rainpuff graduation
+31 January 2024 - Yuki Chihiro and Azuchi Momo graduation
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-20 Januari 2024 - Kelulusan Pomu Rainpuff
+31 Januari 2024 - Kelulusan Yuki Chihiro dan Azuchi Momo
 
 Menerima kontributor.
 
