@@ -4,7 +4,7 @@ A better Nijisanji liver sorter with more features and filters that based on [ex
 Visit [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/)
 
 Latest changelog:<br>
-31 January 2024 - Yuki Chihiro and Azuchi Momo graduation
+6 February 2024 - Selen Tatsuki termination
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter ya
 Kunjungi [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-31 Januari 2024 - Kelulusan Yuki Chihiro dan Azuchi Momo
+6 Februari 2024 - Pemberhentian Selen Tatsuki
 
 Menerima kontributor.
 
