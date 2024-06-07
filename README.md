@@ -1,12 +1,7 @@
 # Better-Nijisort
 A better Nijisanji liver sorter with more features and filters that based on [execfera's Touhou Project character sorter](https://tohosort.frelia.my/) source code and [rennelu's version of Nijisanji liver sorter](https://rennelu.github.io/nijisort).
 
-Visit [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/)
-
-Latest changelog:<br>
-17 February 2024 - Kyo Kaneko graduation
-
-Contributors are open
+Visit [nijisanji.sorter.ufal.my.id](https://nijisanji.sorter.ufal.my.id/)
 
 Supports me via [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) or [PayPal (International)](https://paypal.me/ufalsalman)
 
@@ -14,11 +9,6 @@ Supports me via [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) or [P
 
 Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter yang lebih banyak yang berdasarkan pada kode sumber [penyortir karakter Touhou Project milik execfera](https://tohosort.frelia.my/) dan [penyortir liver Nijisanji versi rennelu](https://rennelu.github.io/nijisort).
 
-Kunjungi [nijisanji.sorter.my.id](https://nijisanji.sorter.my.id/id)
-
-Perubahan terakhir:<br>
-17 Februari 2024 - Kelulusan Kyo Kaneko
-
-Menerima kontributor.
+Kunjungi [nijisanji.sorter.ufal.my.id](https://nijisanji.sorter.ufal.my.id/id)
 
 Dukung saya melalui [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) atau [PayPal (Internasional)](https://paypal.me/ufalsalman)
