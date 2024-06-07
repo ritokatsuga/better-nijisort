@@ -9,6 +9,6 @@ Supports me via [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) or [P
 
 Sebuah penyortir termutakhirkan untuk liver Nijisanji dengan fitur dan filter yang lebih banyak yang berdasarkan pada kode sumber [penyortir karakter Touhou Project milik execfera](https://tohosort.frelia.my/) dan [penyortir liver Nijisanji versi rennelu](https://rennelu.github.io/nijisort).
 
-Kunjungi [nijisanji.sorter.ufal.my.id](https://nijisanji.sorter.ufal.my.id/id)
+Kunjungi [nijisanji.sorter.ufal.my.id](https://nijisanji.sorter.ufal.my.id/)
 
 Dukung saya melalui [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) atau [PayPal (Internasional)](https://paypal.me/ufalsalman)
