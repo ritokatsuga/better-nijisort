@@ -138,7 +138,8 @@ dataSet[dataSetVersion].characterData = [
     img: "utako.png",
     opts: {
       branch: ['jp'],
-      girl: true
+      girl: true,
+      retired: true
     }
   },
   {
